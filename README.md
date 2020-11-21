@@ -1,0 +1,2 @@
+# substring
+maximl python ques
